@@ -3,7 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetOrdinalOrNot.Tests", "GetOrdinalTests\GetOrdinalOrNot.Tests.csproj", "{3E4705FB-C594-43CB-AAB4-C2C27840D686}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{73E0C0B2-B0C3-4FE6-94FA-814DA23154A4}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetOrdinalOrNot.Tests", "GetOrdinalOrNot.Tests\GetOrdinalOrNot.Tests.csproj", "{3E4705FB-C594-43CB-AAB4-C2C27840D686}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

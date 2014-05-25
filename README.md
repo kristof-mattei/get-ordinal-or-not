@@ -1,5 +1,5 @@
 get-ordinal-or-not
-===========
+==================
 
 
 Small test class I've written to support measuring the difference between using a direct index to get fields from a SqlCommand or fetching the index through GetOrdinal.
